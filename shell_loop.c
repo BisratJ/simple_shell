@@ -73,4 +73,5 @@ void shell_loop(data_shell *datash)
 			loop = 0;
 			free(input);
 		}
-	
+	}
+}
